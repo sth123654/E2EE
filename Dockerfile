@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-centos:11
+FROM openjdk
 
 ENV JAVA_OPTS="-Xmx1g -Xms1g"
 
