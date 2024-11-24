@@ -11,9 +11,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import com.microsoft.sqlserver.jdbc.SQLServerResultSet;
 
-//set "PATH=C:\java\zulu8.56.0.21-ca-jdk8.0.302-win_x64\bin"
-//javac -encoding UTF-8 -classpath .;jar/mssql-jdbc-9.4.0.jre8.jar connectURL.java
-//java -Djava.library.path=c:\nibox -classpath .;jar/mssql-jdbc-9.4.0.jre8.jar;* connectURL
 public class connectURL 
 {
 	private boolean Debug = true;
